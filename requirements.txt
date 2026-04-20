@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+insightface
+pywin32
+onnxruntime
